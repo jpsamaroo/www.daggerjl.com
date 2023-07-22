@@ -1,6 +1,10 @@
 @def title = "Dagger.jl Home"
 @def tags = ["parallel", "hpc", "julia"]
 
+~~~
+<img alt="Dagger.jl Logo" src="assets/logo-final-medium.jpg" style="width:100%;padding:0%" />
+~~~
+
 # Unleashing Parallelism with Dagger.jl
 
 Making code run fast used to be difficult - no longer! Dagger.jl supercharges your code, letting it run in parallel on any and all hardware you have at your disposal.
